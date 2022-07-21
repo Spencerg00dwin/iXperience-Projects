@@ -1,6 +1,8 @@
 import React, {useState} from 'react'
 
 import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap-icons/font/bootstrap-icons.css'
+import './App.css'
 
 import TaskInput from './component/TaskInput'
 import TaskTable from './component/TaskTable'
